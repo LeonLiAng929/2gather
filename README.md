@@ -29,7 +29,7 @@ Below are some screenshots of how the program looks.
 - [Marcus Ooi](https://github.com/MarcusKJOoi)
 - [Zain Shroff](https://github.com/zain610)
 - [Tricia Wajaya](https://github.com/TriciaWijaya)
-- [Leon Wang](https://github.com/LeonLiAng929)
+- [Leon Li Ang](https://github.com/LeonLiAng929)
 
 ## Trying it out
 Requirement:
